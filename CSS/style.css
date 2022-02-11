@@ -4,6 +4,11 @@ section{
 h1{
     color:#ff0000 ;
 }
-span{
-    font-size: larger;
+p{
+    font-size: larger;}
+.paragraf1{
+    color: #a42423;
+}
+.paragraf2{
+    color:#00008f ;
 }
